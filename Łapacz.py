@@ -1,3 +1,4 @@
+
 import random
 
 WIDTH = 600  # szeoko
